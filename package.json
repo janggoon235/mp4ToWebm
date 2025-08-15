@@ -1,0 +1,13 @@
+{
+  "name": "mp4-to-webm",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "mp4ToWebm.js",
+  "scripts": {
+    "start": "node mp4ToWebm.js"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "ffmpeg": "^0.0.4"
+  }
+}
